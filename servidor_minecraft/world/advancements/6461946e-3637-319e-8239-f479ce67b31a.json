@@ -18,6 +18,7 @@
       "minecraft:forest": "2024-12-17 10:55:34 +0000",
       "minecraft:lush_caves": "2024-12-17 10:56:30 +0000",
       "minecraft:ice_spikes": "2024-12-17 10:53:18 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-17 15:14:57 +0000",
       "minecraft:deep_dark": "2024-12-17 11:07:02 +0000",
       "minecraft:meadow": "2024-12-17 10:55:41 +0000",
       "minecraft:plains": "2024-12-17 10:55:25 +0000"
@@ -332,6 +333,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-17 15:13:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-17 14:53:53 +0000"
@@ -341,6 +348,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-17 14:46:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-17 15:13:36 +0000"
     },
     "done": true
   },

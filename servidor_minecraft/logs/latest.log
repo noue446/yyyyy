@@ -665,3 +665,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 14:39:41.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
 [17Dec2024 14:39:44.236] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Timed out
 [17Dec2024 14:39:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game
+[17Dec2024 14:40:53.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Corpse Fly
+[17Dec2024 14:40:53.174] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[17Dec2024 14:41:00.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Dread Scuttler
+[17Dec2024 14:41:00.692] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 14:41:00.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[17Dec2024 14:41:04.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[17Dec2024 14:41:13.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Knowledge of Death]
+[17Dec2024 14:41:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has reached the goal [Chain Death]
+[17Dec2024 14:41:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Dread Knight
+[17Dec2024 14:41:13.411] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[17Dec2024 14:41:34.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Knowledge raises the soul]
+[17Dec2024 14:42:01.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=104, z=6}
+[17Dec2024 14:42:01.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=103, z=6}
+[17Dec2024 14:42:02.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=104, z=6}
+[17Dec2024 14:42:02.388] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-36, y=104, z=6}
+[17Dec2024 14:42:02.555] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=103, z=6}
+[17Dec2024 14:42:19.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-34, y=104, z=6}
+[17Dec2024 14:42:26.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=103, z=6}
+[17Dec2024 14:42:28.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-35, y=104, z=7}
+[17Dec2024 14:42:45.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[17Dec2024 14:42:45.109] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 14:42:48.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[17Dec2024 14:43:36.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[17Dec2024 14:43:58.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[17Dec2024 14:44:12.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[17Dec2024 14:44:22.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Noxxxx
+[17Dec2024 14:44:22.735] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[17Dec2024 14:44:28.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[17Dec2024 14:46:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Sweet Dreams]
+[17Dec2024 14:46:52.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Sweet Dreams]
+[17Dec2024 14:48:51.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.99.76.57:49463] logged in with entity id 15533 at (-158.6334428636393, 92.0, -275.6835217156099)
+[17Dec2024 14:48:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
+[17Dec2024 14:49:04.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]

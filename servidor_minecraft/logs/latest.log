@@ -824,3 +824,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 15:18:23.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Set the weather to clear]
 [17Dec2024 15:21:45.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noxxxx> z
 [17Dec2024 15:29:49.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27475, l='ServerLevel[world]', x=694.04, y=61.02, z=670.94] died, message: 'Villager drowned'
+[17Dec2024 15:41:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Skeleton
+[17Dec2024 15:41:11.433] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 15:41:11.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Monster Hunter]

@@ -301,10 +301,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2024-12-17 14:46:22 +0000",
+      "baked_potato": "2024-12-17 15:38:31 +0000",
       "porkchop": "2024-12-17 14:19:18 +0000",
       "rabbit": "2024-12-17 14:19:21 +0000",
       "mutton": "2024-12-17 14:35:39 +0000",
       "bread": "2024-12-17 14:46:30 +0000",
+      "golden_apple": "2024-12-17 15:46:09 +0000",
       "rotten_flesh": "2024-12-17 14:30:21 +0000"
     },
     "done": false
@@ -324,6 +326,12 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2024-12-17 14:55:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-17 15:39:52 +0000"
     },
     "done": true
   },
@@ -348,6 +356,24 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-17 14:46:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-17 15:41:11 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-17 15:41:11 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 15:47:05 +0000"
     },
     "done": true
   },

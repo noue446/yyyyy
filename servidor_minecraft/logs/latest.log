@@ -827,3 +827,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 15:41:11.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Skeleton
 [17Dec2024 15:41:11.433] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [17Dec2024 15:41:11.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Monster Hunter]
+[17Dec2024 15:41:20.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Skeleton
+[17Dec2024 15:41:21.057] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:41:22.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Skeleton
+[17Dec2024 15:41:23.118] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 15:41:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Monster Hunter]
+[17Dec2024 15:43:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [A Strange Grave Dust]
+[17Dec2024 15:45:47.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was doomed to fall by Husk
+[17Dec2024 15:45:48.048] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 15:46:39.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:46:40.203] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:47:05.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Chain Death]
+[17Dec2024 15:47:05.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:47:05.954] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:47:35.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:47:35.584] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:47:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:47:51.091] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:48:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Ice Bucket Challenge]
+[17Dec2024 15:49:32.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:49:32.959] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:49:53.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:49:53.355] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:50:06.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:50:06.994] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:50:59.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Husk
+[17Dec2024 15:50:59.680] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 15:51:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:51:17.884] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

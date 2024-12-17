@@ -137,6 +137,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-17 15:14:32 +0000",
       "minecraft:taiga": "2024-12-17 15:13:02 +0000",
       "minecraft:sunflower_plains": "2024-12-17 15:02:26 +0000",
+      "minecraft:beach": "2024-12-17 16:18:31 +0000",
       "minecraft:river": "2024-12-17 15:14:56 +0000",
       "minecraft:snowy_plains": "2024-12-17 14:49:05 +0000",
       "minecraft:dripstone_caves": "2024-12-17 14:34:35 +0000",
@@ -144,7 +145,9 @@
       "minecraft:grove": "2024-12-17 14:38:10 +0000",
       "minecraft:swamp": "2024-12-17 16:07:18 +0000",
       "minecraft:forest": "2024-12-17 15:12:30 +0000",
+      "minecraft:ocean": "2024-12-17 16:22:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 15:14:59 +0000",
+      "minecraft:windswept_savanna": "2024-12-17 16:18:41 +0000",
       "minecraft:meadow": "2024-12-17 15:08:38 +0000",
       "minecraft:plains": "2024-12-17 14:53:31 +0000"
     },
@@ -152,10 +155,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-17 16:11:24 +0000",
       "log_spam_fixer": "2024-12-17 14:33:59 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -181,9 +183,21 @@
     },
     "done": true
   },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2024-12-17 16:22:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-17 16:08:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 16:21:38 +0000"
     },
     "done": true
   },
@@ -243,7 +257,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-17 15:41:50 +0000"
+      "minecraft:skeleton": "2024-12-17 15:41:50 +0000",
+      "minecraft:witch": "2024-12-17 16:21:38 +0000"
     },
     "done": false
   },
@@ -256,6 +271,12 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2024-12-17 15:01:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 16:24:37 +0000"
     },
     "done": true
   },

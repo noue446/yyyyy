@@ -886,3 +886,50 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 16:08:29.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Not Today, Thank You]
 [17Dec2024 16:11:25.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Stymphalian Bird
 [17Dec2024 16:11:26.313] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:15:37.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Stymphalian Bird
+[17Dec2024 16:15:38.435] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:15:51.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Stymphalian Bird
+[17Dec2024 16:15:56.834] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:15:56.906] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5749ms or 114 ticks behind
+[17Dec2024 16:15:56.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved too quickly! -6.1524980631159,2.3626130348961354,7.625184714082479
+[17Dec2024 16:18:19.209] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47982, l='ServerLevel[world]', x=601.50, y=71.00, z=1393.50]
+[17Dec2024 16:18:24.744] [pool-6-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert]] from pos BlockPos{x=725, y=67, z=1627}
+[17Dec2024 16:18:25.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=725, y=67, z=1627} but found not block entity block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] at location
+[17Dec2024 16:18:25.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=false,north=false,south=false,waterlogged=false,west=true] but failed at location BlockPos{x=725, y=67, z=1627}
+[17Dec2024 16:19:04.910] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48492, l='ServerLevel[world]', x=649.50, y=78.00, z=1463.50]
+[17Dec2024 16:19:27.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Local Brewery]
+[17Dec2024 16:19:36.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[17Dec2024 16:20:49.709] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48858, l='ServerLevel[world]', x=649.50, y=78.00, z=1461.50]
+[17Dec2024 16:21:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx hit the ground too hard
+[17Dec2024 16:21:19.077] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:21:38.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Ambush]
+[17Dec2024 16:22:12.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [This Must be a Sign!]
+[17Dec2024 16:22:51.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ghost
+[17Dec2024 16:22:52.069] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:23:38.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Who You Gonna Call?]
+[17Dec2024 16:24:05.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Ashes 'n Bones]
+[17Dec2024 16:24:37.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Who You Gonna Call?]
+[17Dec2024 16:25:19.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was turned into gorgonzola by Gorgon
+[17Dec2024 16:25:19.924] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:25:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned into gorgonzola by Gorgon
+[17Dec2024 16:25:28.621] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:26:14.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was turned into gorgonzola by Gorgon
+[17Dec2024 16:26:15.025] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:26:33.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned into gorgonzola by Gorgon
+[17Dec2024 16:26:33.778] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:28:07.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was turned to stone by Gorgon
+[17Dec2024 16:28:07.907] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:28:19.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned to stone by Gorgon
+[17Dec2024 16:28:19.820] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:29:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned into gorgonzola by Gorgon
+[17Dec2024 16:29:08.157] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:29:34.609] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52746, l='ServerLevel[world]', x=850.50, y=81.00, z=1627.50]
+[17Dec2024 16:29:37.659] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/52764, l='ServerLevel[world]', x=850.50, y=81.00, z=1629.50]
+[17Dec2024 16:29:52.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned into gorgonzola by Gorgon
+[17Dec2024 16:29:52.775] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:31:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned into gorgonzola by Gorgon
+[17Dec2024 16:31:12.281] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:31:13.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was turned to stone by Gorgon
+[17Dec2024 16:31:14.378] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[17Dec2024 16:31:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was turned to stone by Gorgon
+[17Dec2024 16:31:51.086] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

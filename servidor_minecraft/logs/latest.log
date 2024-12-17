@@ -601,3 +601,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 13:59:30.671] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@293d2f0[id=<null>,name=GiovanyBy14,properties={},legacy=false] (/127.99.76.57:42869): Took too long to log in
 [17Dec2024 13:59:30.673] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@293d2f0[id=<null>,name=GiovanyBy14,properties={},legacy=false] (/127.99.76.57:42869) lost connection: Took too long to log in
 [17Dec2024 13:59:30.719] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[17Dec2024 14:04:07.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Set own game mode to Survival Mode]
+[17Dec2024 14:04:27.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Stray
+[17Dec2024 14:04:27.341] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 14:06:09.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Knowledge of Death]
+[17Dec2024 14:06:09.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Here They Come]
+[17Dec2024 14:08:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Direwolf
+[17Dec2024 14:08:30.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Your First Grave]
+[17Dec2024 14:08:30.498] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 14:08:32.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [The Most Useful Key]
+[17Dec2024 14:09:49.922] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.99.76.57:37847] logged in with entity id 5433 at (-27.5, 107.0, -8.5)
+[17Dec2024 14:09:49.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[17Dec2024 14:09:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Christmas]
+[17Dec2024 14:09:50.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has completed the challenge [The Undead]
+[17Dec2024 14:09:50.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Ice and Fire]

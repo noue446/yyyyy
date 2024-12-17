@@ -316,63 +316,15 @@
     },
     "done": false
   },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_chestplate": "2024-12-17 15:03:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2024-12-17 16:57:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2024-12-17 16:08:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2024-12-17 15:02:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2024-12-17 16:08:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/brew_potion": {
-    "criteria": {
-      "potion": "2024-12-17 16:19:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/bestiary": {
-    "criteria": {
-      "bestiary": "2024-12-17 14:55:09 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-17 15:39:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-17 14:27:40 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "obsidian": "2024-12-17 15:13:43 +0000"
+      "slept_in_bed": "2024-12-17 14:46:50 +0000"
     },
     "done": true
   },
@@ -382,9 +334,39 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "iceandfire:iceandfire/bestiary": {
     "criteria": {
-      "slept_in_bed": "2024-12-17 14:46:50 +0000"
+      "bestiary": "2024-12-17 14:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-17 15:02:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-17 15:03:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-17 15:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-17 15:13:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-17 15:39:52 +0000"
     },
     "done": true
   },
@@ -400,9 +382,27 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/seagull_steal": {
+  "tombstone:adventure/chain_death": {
     "criteria": {
-      "ex": "2024-12-17 16:40:40 +0000"
+      "coded_trigger": "2024-12-17 15:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-17 16:08:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 16:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-17 16:19:27 +0000"
     },
     "done": true
   },
@@ -412,9 +412,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "tombstone:adventure/ashes_and_bones": {
     "criteria": {
-      "coded_trigger": "2024-12-17 15:47:05 +0000"
+      "coded_trigger": "2024-12-17 16:24:05 +0000"
     },
     "done": true
   },
@@ -424,15 +424,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
-      "coded_trigger": "2024-12-17 16:24:05 +0000"
+      "ex": "2024-12-17 16:40:40 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "has_magic_tablet": "2024-12-17 15:13:36 +0000"
+      "lava_bucket": "2024-12-17 16:57:23 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mysterious_gift": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 17:19:14 +0000"
     },
     "done": true
   },

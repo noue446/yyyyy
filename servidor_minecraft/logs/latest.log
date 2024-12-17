@@ -855,3 +855,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 15:50:59.680] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [17Dec2024 15:51:17.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
 [17Dec2024 15:51:17.884] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:52:16.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:52:16.599] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:52:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:52:35.058] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:53:58.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:53:58.978] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 15:55:04.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 15:55:04.680] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 16:01:33.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Husk
+[17Dec2024 16:01:33.925] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

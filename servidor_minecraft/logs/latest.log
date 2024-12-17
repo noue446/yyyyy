@@ -1043,3 +1043,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 17:19:14.942] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.99.76.57:47969] logged in with entity id 68307 at (589.6854912826827, 69.70311070163434, 2584.650493390428)
 [17Dec2024 17:19:14.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
 [17Dec2024 17:19:14.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Mysterious Gift]
+[17Dec2024 17:24:29.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Creeper
+[17Dec2024 17:24:30.090] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[17Dec2024 17:24:57.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx was kicked for floating too long!
+[17Dec2024 17:24:57.532] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Flying is not enabled on this server
+[17Dec2024 17:24:57.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[17Dec2024 17:25:42.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.99.76.57:38227] logged in with entity id 70580 at (560.525452613666, 76.28549238931866, 2593.1701855320284)
+[17Dec2024 17:25:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[17Dec2024 17:29:16.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has completed the challenge [Nuh UH!]
+[17Dec2024 17:29:18.040] [pool-6-thread-7/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=923, y=72, z=2779}
+[17Dec2024 17:32:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Sucker
+[17Dec2024 17:32:06.639] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

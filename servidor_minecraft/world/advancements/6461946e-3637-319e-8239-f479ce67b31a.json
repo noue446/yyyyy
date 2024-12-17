@@ -6,6 +6,7 @@
       "minecraft:taiga": "2024-12-17 10:55:56 +0000",
       "minecraft:frozen_river": "2024-12-17 11:03:28 +0000",
       "minecraft:sunflower_plains": "2024-12-17 10:58:47 +0000",
+      "minecraft:cherry_grove": "2024-12-17 17:23:47 +0000",
       "minecraft:birch_forest": "2024-12-17 10:57:35 +0000",
       "minecraft:beach": "2024-12-17 16:18:27 +0000",
       "minecraft:dark_forest": "2024-12-17 10:57:32 +0000",
@@ -439,6 +440,12 @@
   "tombstone:adventure/mysterious_gift": {
     "criteria": {
       "coded_trigger": "2024-12-17 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood": "2024-12-17 17:29:16 +0000"
     },
     "done": true
   },

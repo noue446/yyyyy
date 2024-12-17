@@ -142,6 +142,7 @@
       "minecraft:dripstone_caves": "2024-12-17 14:34:35 +0000",
       "minecraft:snowy_taiga": "2024-12-17 14:35:12 +0000",
       "minecraft:grove": "2024-12-17 14:38:10 +0000",
+      "minecraft:swamp": "2024-12-17 16:07:18 +0000",
       "minecraft:forest": "2024-12-17 15:12:30 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 15:14:59 +0000",
       "minecraft:meadow": "2024-12-17 15:08:38 +0000",
@@ -151,9 +152,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2024-12-17 16:11:24 +0000",
       "log_spam_fixer": "2024-12-17 14:33:59 +0000"
     },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -176,6 +178,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-12-17 14:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-17 16:08:29 +0000"
     },
     "done": true
   },

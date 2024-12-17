@@ -137,6 +137,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-17 15:14:32 +0000",
       "minecraft:taiga": "2024-12-17 15:13:02 +0000",
       "minecraft:sunflower_plains": "2024-12-17 15:02:26 +0000",
+      "minecraft:birch_forest": "2024-12-17 16:43:15 +0000",
       "minecraft:beach": "2024-12-17 16:18:31 +0000",
       "minecraft:river": "2024-12-17 15:14:56 +0000",
       "minecraft:snowy_plains": "2024-12-17 14:49:05 +0000",
@@ -192,6 +193,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-17 16:08:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-17 16:34:01 +0000"
     },
     "done": true
   },
@@ -258,6 +265,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 15:41:50 +0000",
+      "minecraft:spider": "2024-12-17 16:37:27 +0000",
       "minecraft:witch": "2024-12-17 16:21:38 +0000"
     },
     "done": false
@@ -265,6 +273,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-17 15:41:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-17 16:41:45 +0000"
     },
     "done": true
   },
@@ -295,6 +309,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-17 14:54:06 +0000",
+      "beef": "2024-12-17 16:51:20 +0000",
       "apple": "2024-12-17 14:59:00 +0000",
       "bread": "2024-12-17 15:14:27 +0000",
       "golden_apple": "2024-12-17 15:51:58 +0000"
@@ -322,6 +337,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-17 15:03:55 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2024-12-17 16:37:37 +0000"
     },
     "done": true
   },

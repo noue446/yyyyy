@@ -1030,3 +1030,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [17Dec2024 16:51:02.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62154, l='ServerLevel[world]', x=741.50, y=74.00, z=2036.50]
 [17Dec2024 16:51:26.909] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62273, l='ServerLevel[world]', x=601.50, y=70.00, z=2037.50]
 [17Dec2024 16:51:28.410] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62282, l='ServerLevel[world]', x=613.50, y=73.00, z=2042.50]
+[17Dec2024 16:52:38.012] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/62523, l='ServerLevel[world]', x=626.50, y=74.00, z=2040.50]
+[17Dec2024 16:53:33.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[17Dec2024 16:57:23.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Hot Stuff]
+[17Dec2024 17:01:37.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Disconnected
+[17Dec2024 17:01:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game

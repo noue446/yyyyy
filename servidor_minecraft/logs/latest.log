@@ -716,3 +716,93 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 15:11:27.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Paul Atreides]
 [18Dec2024 15:11:40.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Amateur Archaeologist]
 [18Dec2024 15:12:29.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Isn't It Iron Pick]
+[18Dec2024 15:14:39.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Supreme Bonescaller
+[18Dec2024 15:14:39.462] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:15:05.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Bone Imp
+[18Dec2024 15:15:06.068] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:15:11.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Bone Imp
+[18Dec2024 15:15:11.609] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:15:40.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Supreme Bonescaller
+[18Dec2024 15:15:41.062] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:16:09.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Bone Imp
+[18Dec2024 15:16:10.258] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:16:29.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was shot by Supreme Bonescaller
+[18Dec2024 15:16:29.931] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:16:54.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was shot by Supreme Bonescaller
+[18Dec2024 15:16:55.204] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:16:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Bone Imp
+[18Dec2024 15:16:59.487] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:21:18.656] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17139, l='ServerLevel[world]', x=-94.50, y=24.00, z=3824.50]
+[18Dec2024 15:21:20.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17152, l='ServerLevel[world]', x=-99.50, y=31.00, z=3829.50]
+[18Dec2024 15:21:20.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17153, l='ServerLevel[world]', x=-99.50, y=30.00, z=3829.50]
+[18Dec2024 15:21:20.359] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17154, l='ServerLevel[world]', x=-96.50, y=32.00, z=3829.50]
+[18Dec2024 15:21:20.359] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17155, l='ServerLevel[world]', x=-99.50, y=32.00, z=3830.50]
+[18Dec2024 15:21:20.360] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17156, l='ServerLevel[world]', x=-98.50, y=32.00, z=3831.50]
+[18Dec2024 15:21:25.160] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17213, l='ServerLevel[world]', x=-103.50, y=28.00, z=3820.50]
+[18Dec2024 15:21:25.161] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17214, l='ServerLevel[world]', x=-103.50, y=27.00, z=3820.50]
+[18Dec2024 15:21:25.162] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17215, l='ServerLevel[world]', x=-103.50, y=28.00, z=3822.50]
+[18Dec2024 15:21:26.159] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17227, l='ServerLevel[world]', x=-104.50, y=28.00, z=3821.50]
+[18Dec2024 15:21:29.422] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17292, l='ServerLevel[world]', x=-95.50, y=29.00, z=3812.50]
+[18Dec2024 15:21:33.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17331, l='ServerLevel[world]', x=-93.50, y=29.00, z=3817.50]
+[18Dec2024 15:21:33.063] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17332, l='ServerLevel[world]', x=-90.50, y=27.00, z=3818.50]
+[18Dec2024 15:21:33.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17333, l='ServerLevel[world]', x=-93.50, y=29.00, z=3818.50]
+[18Dec2024 15:21:36.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Quite the Renovation]
+[18Dec2024 15:21:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Magic Writing]
+[18Dec2024 15:21:49.506] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17395, l='ServerLevel[world]', x=-104.50, y=29.00, z=3827.50]
+[18Dec2024 15:21:49.507] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17396, l='ServerLevel[world]', x=-103.50, y=30.00, z=3829.50]
+[18Dec2024 15:21:49.507] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17397, l='ServerLevel[world]', x=-105.50, y=30.00, z=3830.50]
+[18Dec2024 15:21:49.508] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17398, l='ServerLevel[world]', x=-106.50, y=31.00, z=3832.50]
+[18Dec2024 15:21:53.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17424, l='ServerLevel[world]', x=-120.50, y=9.00, z=3843.50]
+[18Dec2024 15:21:53.604] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17425, l='ServerLevel[world]', x=-119.50, y=8.00, z=3843.50]
+[18Dec2024 15:21:53.605] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17426, l='ServerLevel[world]', x=-118.50, y=9.00, z=3844.50]
+[18Dec2024 15:21:57.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Quite the Renovation]
+[18Dec2024 15:21:58.956] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17449, l='ServerLevel[world]', x=-122.50, y=1.00, z=3873.50]
+[18Dec2024 15:22:01.608] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17461, l='ServerLevel[world]', x=-125.50, y=3.00, z=3869.50]
+[18Dec2024 15:22:12.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17605, l='ServerLevel[world]', x=-110.50, y=-2.00, z=3902.50]
+[18Dec2024 15:22:12.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17606, l='ServerLevel[world]', x=-110.50, y=-3.00, z=3902.50]
+[18Dec2024 15:22:12.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/17607, l='ServerLevel[world]', x=-112.50, y=-2.00, z=3905.50]
+[18Dec2024 15:22:38.608] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=26, z=-308}
+[18Dec2024 15:22:38.609] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-383, y=27, z=-308}
+[18Dec2024 15:22:38.632] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-305}
+[18Dec2024 15:22:38.633] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=32, z=-306}
+[18Dec2024 15:22:38.633] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=27, z=-304}
+[18Dec2024 15:22:44.628] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-246, y=27, z=-314}
+[18Dec2024 15:22:44.629] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-315}
+[18Dec2024 15:22:44.629] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-245, y=27, z=-314}
+[18Dec2024 15:22:44.629] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-244, y=27, z=-309}
+[18Dec2024 15:22:44.630] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-250, y=32, z=-305}
+[18Dec2024 15:22:59.308] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18021, l='ServerLevel[world]', x=-104.50, y=-5.00, z=3930.50]
+[18Dec2024 15:22:59.309] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18022, l='ServerLevel[world]', x=-102.50, y=-5.00, z=3931.50]
+[18Dec2024 15:23:04.858] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18059, l='ServerLevel[world]', x=-102.50, y=-8.00, z=3920.50]
+[18Dec2024 15:23:21.088] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/18187, l='ServerLevel[world]', x=-139.50, y=5.00, z=3874.50]
+[18Dec2024 15:23:49.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:02.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:04.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:06.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:07.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:08.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:12.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:13.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:16.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:17.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Chest Slayer]
+[18Dec2024 15:24:17.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:18.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:19.269] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:22.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:24.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:24.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:25.467] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:28.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:30.262] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:30.970] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:31.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:35.061] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:36.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:37.163] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:24:37.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 15:25:30.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx liquified to Fanta juice
+[18Dec2024 15:25:30.746] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:27:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Amateur Archaeologist]
+[18Dec2024 15:31:45.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved wrongly!
+[18Dec2024 15:32:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was impaled on a stalagmite whilst fighting Sprinter
+[18Dec2024 15:32:09.199] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

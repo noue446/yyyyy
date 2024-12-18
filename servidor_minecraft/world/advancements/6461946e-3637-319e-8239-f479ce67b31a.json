@@ -579,5 +579,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2024-12-18 15:08:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

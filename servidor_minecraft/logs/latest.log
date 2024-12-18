@@ -605,3 +605,67 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:00:39.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.159.203.142:38545] logged in with entity id 1382 at (-520.6528726415011, 67.0, 3993.4375096222866)
 [18Dec2024 19:00:39.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
 [18Dec2024 19:00:42.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[18Dec2024 19:05:10.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall
+[18Dec2024 19:05:11.013] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:08:10.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has reached the goal [Bone Crusher]
+[18Dec2024 19:08:44.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:08:47.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:08:50.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:08:53.351] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:08:56.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:01.054] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:05.561] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:06.554] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:08.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:09.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:13.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:14.452] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:15.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:15.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:19.253] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:20.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:21.355] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:22.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:25.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:26.853] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:27.551] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:28.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:31.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:33.052] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:33.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:34.455] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:37.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:39.252] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:39.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:40.654] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:44.053] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:45.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:46.151] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:46.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:48.752] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:51.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:53.953] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:54.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:58.055] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:58.753] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:09:59.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:10:51.952] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[18Dec2024 19:11:42.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.159.203.142:40563] logged in with entity id 7397 at (-639.2803085104692, 64.0, 3943.9205397633477)
+[18Dec2024 19:11:42.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[18Dec2024 19:12:04.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Nightmare Stalker
+[18Dec2024 19:12:04.549] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:12:04.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Zombie
+[18Dec2024 19:12:04.971] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 19:13:59.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Zombie
+[18Dec2024 19:14:01.492] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:14:02.099] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
+[18Dec2024 19:14:39.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[18Dec2024 19:14:53.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Amateur Archaeologist]
+[18Dec2024 19:16:36.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noxxxx> more-tourism.gl.joinmc.link
+[18Dec2024 19:17:33.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[18Dec2024 19:17:47.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [When in Rome]
+[18Dec2024 19:17:49.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [When in Rome]
+[18Dec2024 19:18:58.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[18Dec2024 19:19:24.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.159.203.142:38963] logged in with entity id 12277 at (-517.687601012769, 67.41999998688698, 3995.301896464633)
+[18Dec2024 19:19:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
+[18Dec2024 19:20:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]

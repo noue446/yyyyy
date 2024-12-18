@@ -878,3 +878,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 20:32:30.150] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [18Dec2024 20:33:04.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
 [18Dec2024 20:33:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[18Dec2024 20:33:32.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Timed out
+[18Dec2024 20:33:32.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game

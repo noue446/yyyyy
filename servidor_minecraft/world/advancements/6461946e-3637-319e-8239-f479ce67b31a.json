@@ -4,13 +4,16 @@
       "minecraft:snowy_slopes": "2024-12-17 09:45:56 +0000",
       "minecraft:old_growth_pine_taiga": "2024-12-17 10:56:15 +0000",
       "minecraft:taiga": "2024-12-17 10:55:56 +0000",
+      "minecraft:eroded_badlands": "2024-12-18 04:57:15 +0000",
       "minecraft:frozen_river": "2024-12-17 11:03:28 +0000",
       "minecraft:sunflower_plains": "2024-12-17 10:58:47 +0000",
       "minecraft:cherry_grove": "2024-12-17 17:23:47 +0000",
       "minecraft:birch_forest": "2024-12-17 10:57:35 +0000",
+      "minecraft:savanna_plateau": "2024-12-18 05:01:31 +0000",
       "minecraft:beach": "2024-12-17 16:18:27 +0000",
       "minecraft:dark_forest": "2024-12-17 10:57:32 +0000",
       "minecraft:river": "2024-12-17 10:55:35 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-18 02:48:18 +0000",
       "minecraft:snowy_plains": "2024-12-17 10:53:28 +0000",
       "minecraft:stony_shore": "2024-12-17 10:59:07 +0000",
       "minecraft:snowy_taiga": "2024-12-17 11:01:58 +0000",
@@ -21,12 +24,14 @@
       "minecraft:forest": "2024-12-17 10:55:34 +0000",
       "minecraft:lush_caves": "2024-12-17 10:56:30 +0000",
       "minecraft:ice_spikes": "2024-12-17 10:53:18 +0000",
+      "minecraft:desert": "2024-12-18 04:48:29 +0000",
       "minecraft:ocean": "2024-12-17 16:25:04 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-17 15:14:57 +0000",
       "minecraft:windswept_savanna": "2024-12-17 16:18:37 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-17 17:39:49 +0000",
       "minecraft:deep_dark": "2024-12-17 11:07:02 +0000",
       "minecraft:meadow": "2024-12-17 10:55:41 +0000",
+      "minecraft:savanna": "2024-12-18 02:43:49 +0000",
       "minecraft:plains": "2024-12-17 10:55:25 +0000"
     },
     "done": false
@@ -308,13 +313,17 @@
     "criteria": {
       "cooked_mutton": "2024-12-17 14:46:22 +0000",
       "baked_potato": "2024-12-17 15:38:31 +0000",
+      "beef": "2024-12-18 05:08:39 +0000",
       "porkchop": "2024-12-17 14:19:18 +0000",
       "apple": "2024-12-17 15:58:17 +0000",
       "rabbit": "2024-12-17 14:19:21 +0000",
       "mutton": "2024-12-17 14:35:39 +0000",
       "bread": "2024-12-17 14:46:30 +0000",
       "golden_apple": "2024-12-17 15:46:09 +0000",
-      "rotten_flesh": "2024-12-17 14:30:21 +0000"
+      "rotten_flesh": "2024-12-17 14:30:21 +0000",
+      "salmon": "2024-12-18 04:03:24 +0000",
+      "melon_slice": "2024-12-18 02:51:23 +0000",
+      "carrot": "2024-12-18 02:40:03 +0000"
     },
     "done": false
   },
@@ -374,7 +383,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-17 15:41:11 +0000"
+      "minecraft:pillager": "2024-12-18 03:07:44 +0000",
+      "minecraft:skeleton": "2024-12-17 15:41:11 +0000",
+      "minecraft:vindicator": "2024-12-18 03:13:21 +0000",
+      "minecraft:witch": "2024-12-18 03:53:56 +0000",
+      "minecraft:cave_spider": "2024-12-18 02:22:48 +0000",
+      "minecraft:zombie": "2024-12-18 01:34:11 +0000",
+      "minecraft:drowned": "2024-12-18 03:02:12 +0000"
     },
     "done": false
   },
@@ -447,6 +462,120 @@
   "undead_revamp2:earthyblood": {
     "criteria": {
       "earthyblood": "2024-12-17 17:29:16 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:vampire_slayer": {
+    "criteria": {
+      "vampire_slayer_0": "2024-12-18 01:52:54 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded": "2024-12-18 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly": "2024-12-18 02:10:24 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mutual_aid": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 02:32:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2024-12-18 02:39:08 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 02:47:27 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-18 02:47:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-18 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 03:07:44 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 03:11:40 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:bastille": {
+    "criteria": {
+      "in_bastille": "2024-12-18 03:19:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 03:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-18 03:58:08 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:adventure/summon_copper_golem": {
+    "criteria": {
+      "summoned_golem": "2024-12-18 04:06:13 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2024-12-18 04:07:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2024-12-18 04:08:24 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2024-12-18 04:08:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2024-12-18 04:44:15 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "steal_crystal": "2024-12-18 05:03:32 +0000"
     },
     "done": true
   },

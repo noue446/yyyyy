@@ -747,3 +747,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:58:23.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx drowned
 [18Dec2024 19:58:24.320] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [18Dec2024 19:59:09.903] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:07:13.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 20:07:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 20:08:56.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Surfer Rosa]
+[18Dec2024 20:09:14.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Decrepit Skeleton
+[18Dec2024 20:09:14.498] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:09:20.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved wrongly!
+[18Dec2024 20:09:50.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:09:51.057] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:10:12.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was doomed to fall by Cyclops
+[18Dec2024 20:10:12.720] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:10:24.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[18Dec2024 20:10:30.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:10:31.101] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:10:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Cyclops
+[18Dec2024 20:10:54.573] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:11:13.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:11:14.311] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:11:23.022] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:11:27.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Cyclops
+[18Dec2024 20:11:28.019] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:11:34.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:11:35.238] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:11:51.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was doomed to fall by Cyclops
+[18Dec2024 20:11:51.489] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:11:56.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:11:56.951] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:12:14.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:12:15.254] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:12:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Cyclops
+[18Dec2024 20:12:24.806] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:12:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
+[18Dec2024 20:12:39.239] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:12:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [My Name is Nobody]

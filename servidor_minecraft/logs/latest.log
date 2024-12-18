@@ -780,3 +780,101 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 20:12:38.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Cyclops
 [18Dec2024 20:12:39.239] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [18Dec2024 20:12:44.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [My Name is Nobody]
+[18Dec2024 20:14:23.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx burned to death
+[18Dec2024 20:14:24.095] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:14:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx burned to death
+[18Dec2024 20:14:58.499] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:15:38.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was burnt to a crisp whilst fighting Fire Dragon
+[18Dec2024 20:15:38.653] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:16:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was turned into KFC by Fire Dragon
+[18Dec2024 20:16:15.854] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:17:07.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx burned to death
+[18Dec2024 20:17:08.293] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:17:11.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Fire Dragon
+[18Dec2024 20:17:11.960] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:18:23.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx burned to death
+[18Dec2024 20:18:24.094] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:19:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has made the advancement [Mutual Aid]
+[18Dec2024 20:20:23.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Noxxxx
+[18Dec2024 20:20:24.067] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:20:24.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicolasxpazx> -
+[18Dec2024 20:24:09.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[18Dec2024 20:24:30.627] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-607}
+[18Dec2024 20:24:30.628] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-607}
+[18Dec2024 20:24:30.628] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-607}
+[18Dec2024 20:24:30.628] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-607}
+[18Dec2024 20:24:30.629] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-607}
+[18Dec2024 20:24:37.211] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-309, y=29, z=-612}
+[18Dec2024 20:24:37.212] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-307, y=29, z=-612}
+[18Dec2024 20:24:37.212] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-305, y=29, z=-612}
+[18Dec2024 20:24:37.212] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-303, y=29, z=-612}
+[18Dec2024 20:24:37.212] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-301, y=29, z=-612}
+[18Dec2024 20:24:55.082] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[18Dec2024 20:24:55.083] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[18Dec2024 20:24:55.083] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[18Dec2024 20:25:01.033] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-80}
+[18Dec2024 20:25:01.085] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-169, y=-51, z=-77}
+[18Dec2024 20:25:01.853] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-594}
+[18Dec2024 20:25:01.854] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-593}
+[18Dec2024 20:25:01.854] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-593}
+[18Dec2024 20:25:01.854] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-340, y=30, z=-591}
+[18Dec2024 20:25:01.855] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-591}
+[18Dec2024 20:25:01.855] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-592}
+[18Dec2024 20:25:01.855] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=29, z=-590}
+[18Dec2024 20:25:01.856] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=29, z=-589}
+[18Dec2024 20:25:01.856] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-338, y=29, z=-589}
+[18Dec2024 20:25:01.857] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-339, y=24, z=-591}
+[18Dec2024 20:25:01.857] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-337, y=30, z=-588}
+[18Dec2024 20:25:01.857] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-593}
+[18Dec2024 20:25:01.858] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-334, y=30, z=-591}
+[18Dec2024 20:25:01.858] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-336, y=29, z=-589}
+[18Dec2024 20:25:01.858] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-590}
+[18Dec2024 20:25:01.858] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-591}
+[18Dec2024 20:25:01.859] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=29, z=-592}
+[18Dec2024 20:25:01.859] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-335, y=24, z=-591}
+[18Dec2024 20:25:01.965] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-583}
+[18Dec2024 20:25:01.965] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-582}
+[18Dec2024 20:25:01.966] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-582}
+[18Dec2024 20:25:27.474] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-234, y=32, z=-539}
+[18Dec2024 20:25:28.404] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-74}
+[18Dec2024 20:25:28.404] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-77}
+[18Dec2024 20:25:28.405] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-50, z=-72}
+[18Dec2024 20:25:28.405] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-184, y=-45, z=-75}
+[18Dec2024 20:25:28.424] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-177, y=-55, z=-77}
+[18Dec2024 20:25:28.424] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-181, y=-50, z=-73}
+[18Dec2024 20:25:28.424] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-182, y=-45, z=-75}
+[18Dec2024 20:25:28.424] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-70}
+[18Dec2024 20:25:28.761] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-235, y=27, z=-544}
+[18Dec2024 20:25:28.942] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[18Dec2024 20:25:28.943] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[18Dec2024 20:25:33.075] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=305, y=36, z=4758} but found not block entity block Block{minecraft:water}[level=4] at location
+[18Dec2024 20:25:33.076] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=4] but failed at location BlockPos{x=305, y=36, z=4758}
+[18Dec2024 20:26:04.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[18Dec2024 20:26:21.048] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-45, z=-85}
+[18Dec2024 20:26:21.049] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-178, y=-41, z=-89}
+[18Dec2024 20:26:21.049] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-92}
+[18Dec2024 20:26:21.049] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-54, z=-93}
+[18Dec2024 20:26:21.049] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-175, y=-41, z=-90}
+[18Dec2024 20:26:21.579] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-195, y=-54, z=-92}
+[18Dec2024 20:26:21.579] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-54, z=-88}
+[18Dec2024 20:26:21.580] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-192, y=-50, z=-85}
+[18Dec2024 20:26:21.582] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-51, z=-89}
+[18Dec2024 20:26:21.582] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-50, z=-90}
+[18Dec2024 20:26:21.583] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-186, y=-45, z=-87}
+[18Dec2024 20:26:21.584] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-84}
+[18Dec2024 20:29:56.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 20:30:07.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx burned to death
+[18Dec2024 20:30:07.697] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:30:07.707] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 0 in "curios" inventory handler
+[18Dec2024 20:30:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was doomed to fall by Fire Dragon
+[18Dec2024 20:30:24.135] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:30:55.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 20:30:57.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was burnt to a crisp whilst fighting Fire Dragon
+[18Dec2024 20:30:58.963] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:31:19.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[18Dec2024 20:31:29.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was incinerated by Fire Dragon
+[18Dec2024 20:31:29.488] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 20:32:29.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was burnt to a crisp whilst fighting Fire Dragon
+[18Dec2024 20:32:30.150] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 20:33:04.288] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[18Dec2024 20:33:04.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game

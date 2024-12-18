@@ -806,3 +806,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 15:31:45.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved wrongly!
 [18Dec2024 15:32:08.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was impaled on a stalagmite whilst fighting Sprinter
 [18Dec2024 15:32:09.199] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:33:33.958] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[18Dec2024 15:33:33.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[18Dec2024 15:33:34.009] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 15:34:22.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.216.255.247:60217] logged in with entity id 20966 at (-143.95119453155849, 26.0, 3712.6627541589155)
+[18Dec2024 15:34:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[18Dec2024 15:36:40.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:36:40.636] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:37:32.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:37:32.888] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:38:22.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:38:22.445] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:38:55.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:38:55.650] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:39:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:39:41.797] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:40:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:40:16.834] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:41:10.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:41:11.478] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx moved wrongly!
+[18Dec2024 15:41:11.479] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:41:14.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:41:15.302] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:42:55.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.216.255.247:42775] logged in with entity id 24144 at (70.59048979483762, 91.0, 3763.559522826198)
+[18Dec2024 15:42:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game

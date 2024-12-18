@@ -740,3 +740,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:50:13.082] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [18Dec2024 19:50:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Vindicator
 [18Dec2024 19:50:51.235] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:55:46.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Vindicator
+[18Dec2024 19:55:46.727] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:57:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 19:58:19.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [It Belongs in a Museum]
+[18Dec2024 19:58:23.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx drowned
+[18Dec2024 19:58:24.320] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:59:09.903] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

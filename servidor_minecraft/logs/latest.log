@@ -712,3 +712,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:41:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
 [18Dec2024 19:41:06.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
 [18Dec2024 19:41:06.544] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:42:24.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was struck with lightning by Lightning Dragon
+[18Dec2024 19:42:24.880] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:42:28.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was energized by Lightning Dragon
+[18Dec2024 19:42:28.840] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:43:08.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[18Dec2024 19:43:09.033] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:43:20.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was struck with lightning by Lightning Dragon
+[18Dec2024 19:43:20.688] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:43:31.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[18Dec2024 19:43:31.659] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:43:51.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was energized by Lightning Dragon
+[18Dec2024 19:43:51.567] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:44:10.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was energized by Lightning Dragon
+[18Dec2024 19:44:11.118] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:44:14.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Lightning Dragon
+[18Dec2024 19:44:14.813] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:44:34.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was energized by Lightning Dragon
+[18Dec2024 19:44:35.263] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:44:38.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Lightning Dragon
+[18Dec2024 19:44:39.570] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:47:30.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to nicolasxpazx]
+[18Dec2024 19:49:29.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Noxxxx
+[18Dec2024 19:49:29.979] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:49:36.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Diamonds!]
+[18Dec2024 19:50:12.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Noxxxx
+[18Dec2024 19:50:13.082] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 19:50:50.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Vindicator
+[18Dec2024 19:50:51.235] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved

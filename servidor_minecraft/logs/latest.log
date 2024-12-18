@@ -669,3 +669,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 19:19:24.342] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.159.203.142:38963] logged in with entity id 12277 at (-517.687601012769, 67.41999998688698, 3995.301896464633)
 [18Dec2024 19:19:24.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
 [18Dec2024 19:20:28.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
+[18Dec2024 19:22:40.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[18Dec2024 19:22:41.340] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 19:22:54.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[18Dec2024 19:22:56.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
+[18Dec2024 19:23:55.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[18Dec2024 19:23:57.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
+[18Dec2024 19:24:00.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
+[18Dec2024 19:24:04.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[18Dec2024 19:28:19.132] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga]] from pos BlockPos{x=37, y=74, z=4331}
+[18Dec2024 19:30:51.993] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}

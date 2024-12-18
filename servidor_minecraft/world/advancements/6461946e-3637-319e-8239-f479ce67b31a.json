@@ -9,6 +9,7 @@
       "minecraft:sunflower_plains": "2024-12-17 10:58:47 +0000",
       "minecraft:cherry_grove": "2024-12-17 17:23:47 +0000",
       "minecraft:birch_forest": "2024-12-17 10:57:35 +0000",
+      "minecraft:badlands": "2024-12-18 19:18:36 +0000",
       "minecraft:savanna_plateau": "2024-12-18 05:01:31 +0000",
       "minecraft:beach": "2024-12-17 16:18:27 +0000",
       "minecraft:dark_forest": "2024-12-17 10:57:32 +0000",
@@ -500,6 +501,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-18 19:17:47 +0000",
       "in_better_spider_dungeon": "2024-12-18 02:47:27 +0000",
       "in_better_monster_room": "2024-12-18 15:21:36 +0000"
     },
@@ -622,6 +624,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2024-12-18 19:08:10 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-18 19:17:47 +0000"
     },
     "done": true
   },

@@ -337,6 +337,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2024-12-18 19:17:49 +0000",
       "in_better_monster_room": "2024-12-18 02:17:09 +0000",
       "in_better_spider_dungeon": "2024-12-18 02:47:28 +0000"
     },
@@ -429,6 +430,12 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2024-12-18 16:08:23 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2024-12-18 19:17:49 +0000"
     },
     "done": true
   },

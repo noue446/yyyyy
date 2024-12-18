@@ -830,3 +830,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 15:41:15.302] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [18Dec2024 15:42:55.397] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.216.255.247:42775] logged in with entity id 24144 at (70.59048979483762, 91.0, 3763.559522826198)
 [18Dec2024 15:42:55.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[18Dec2024 15:44:16.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[18Dec2024 15:44:50.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:44:51.224] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:44:51.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx moved wrongly!
+[18Dec2024 15:45:05.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:45:05.664] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:45:13.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Ferrous Wroughtnaut
+[18Dec2024 15:45:13.477] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:45:24.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Ferrous Wroughtnaut
+[18Dec2024 15:45:24.384] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 15:45:57.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has completed the challenge [Just a Flesh Wound]
+[18Dec2024 15:46:28.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Noxxxx
+[18Dec2024 15:46:29.171] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:47:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Zombie Villager
+[18Dec2024 15:47:30.822] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 15:48:44.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Siamese Skeletons
+[18Dec2024 15:48:44.423] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 15:48:52.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx hit the ground too hard whilst trying to escape Skeleton
+[18Dec2024 15:48:52.888] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:49:02.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was shot by Missionary
+[18Dec2024 15:49:02.897] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 15:49:52.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[18Dec2024 15:49:52.934] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[18Dec2024 15:50:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was slain by Noxxxx
+[18Dec2024 15:50:40.158] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[18Dec2024 15:50:43.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 was slain by Noxxxx
+[18Dec2024 15:50:43.853] [Server thread/INFO] [tombstone/]: The player GiovanyBy14 has successfully been saved
+[18Dec2024 15:51:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to nicolasxpazx]
+[18Dec2024 15:52:03.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to Noxxxx]
+[18Dec2024 15:52:24.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[18Dec2024 15:52:24.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[18Dec2024 15:53:26.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.216.255.247:44199] logged in with entity id 28501 at (-153.81899093215074, 24.0, 3686.276598433376)
+[18Dec2024 15:53:26.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game

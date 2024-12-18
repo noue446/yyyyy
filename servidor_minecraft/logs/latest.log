@@ -632,3 +632,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [18Dec2024 16:07:58.522] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=8, y=-59, z=123}
 [18Dec2024 16:08:10.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx moved too quickly! -6.469862515946318,-0.756759288177264,7.966357105432962
 [18Dec2024 16:08:23.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [This Must be a Sign!]
+[18Dec2024 16:10:23.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 lost connection: Timed out
+[18Dec2024 16:10:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 left the game
+[18Dec2024 16:10:25.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Timed out
+[18Dec2024 16:10:25.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game
+[18Dec2024 16:10:25.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
+[18Dec2024 16:10:25.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game

@@ -686,6 +686,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:30:35 +0000"
+    },
+    "done": true
+  },
   "placeablesmod:true_farmer": {
     "criteria": {
       "true_farmer": "2024-12-19 03:00:36 +0000"

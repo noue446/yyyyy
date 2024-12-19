@@ -399,7 +399,8 @@
       "minecraft:cave_spider": "2024-12-18 02:22:48 +0000",
       "minecraft:piglin": "2024-12-19 01:12:29 +0000",
       "minecraft:zombie": "2024-12-18 01:34:11 +0000",
-      "minecraft:drowned": "2024-12-18 03:02:12 +0000"
+      "minecraft:drowned": "2024-12-18 03:02:12 +0000",
+      "minecraft:zombie_villager": "2024-12-19 18:00:41 +0000"
     },
     "done": false
   },
@@ -726,6 +727,12 @@
   "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
       "discover": "2024-12-19 17:10:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2024-12-19 18:00:48 +0000"
     },
     "done": true
   },

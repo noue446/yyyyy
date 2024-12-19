@@ -593,3 +593,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 17:48:57.502] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.12.174.205:54511] logged in with entity id 1381 at (708.5835805424091, 117.0, 4496.454859180398)
 [19Dec2024 17:48:57.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
 [19Dec2024 17:49:01.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3897ms or 77 ticks behind
+[19Dec2024 18:00:25.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=995, y=-14, z=4809} BlockPos{x=994, y=-15, z=4810}
+[19Dec2024 18:00:25.190] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=995, y=-14, z=4809} BlockPos{x=994, y=-15, z=4810}
+[19Dec2024 18:00:48.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Life Finds A Way]
+[19Dec2024 18:01:12.314] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=1237, y=90, z=4875}
+[19Dec2024 18:01:34.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 18:02:58.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Town of Bedrock]
+[19Dec2024 18:05:37.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Hunter
+[19Dec2024 18:05:38.729] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

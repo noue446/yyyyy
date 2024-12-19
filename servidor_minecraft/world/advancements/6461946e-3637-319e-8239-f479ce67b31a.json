@@ -391,10 +391,12 @@
       "minecraft:skeleton": "2024-12-17 15:41:11 +0000",
       "minecraft:vindicator": "2024-12-18 03:13:21 +0000",
       "minecraft:spider": "2024-12-18 19:07:02 +0000",
+      "minecraft:piglin_brute": "2024-12-19 01:11:32 +0000",
       "minecraft:evoker": "2024-12-18 19:52:27 +0000",
       "minecraft:witch": "2024-12-18 03:53:56 +0000",
       "minecraft:husk": "2024-12-18 19:07:12 +0000",
       "minecraft:cave_spider": "2024-12-18 02:22:48 +0000",
+      "minecraft:piglin": "2024-12-19 01:12:29 +0000",
       "minecraft:zombie": "2024-12-18 01:34:11 +0000",
       "minecraft:drowned": "2024-12-18 03:02:12 +0000"
     },
@@ -669,6 +671,18 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2024-12-18 20:12:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2024-12-19 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-19 01:05:38 +0000"
     },
     "done": true
   },

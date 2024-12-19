@@ -602,3 +602,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:31:09.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3473ms or 69 ticks behind
 [19Dec2024 00:33:36.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Timed out
 [19Dec2024 00:33:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[19Dec2024 00:46:12.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.231.137.34:59107] logged in with entity id 2085 at (729.5909865741538, 93.0, 4406.452780776496)
+[19Dec2024 00:46:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game

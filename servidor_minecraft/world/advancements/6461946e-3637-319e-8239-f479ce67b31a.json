@@ -748,5 +748,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_grottoceratops": "2024-12-19 22:11:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -172,10 +172,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2024-12-19 22:01:26 +0000",
       "log_spam_fixer": "2024-12-17 14:33:59 +0000"
     },
-    "done": true
+    "done": false
   },
   "tombstone:adventure/root": {
     "criteria": {
@@ -507,6 +506,12 @@
   "iceandfire:iceandfire/tame_hippocampus": {
     "criteria": {
       "tame_rat": "2024-12-19 02:41:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2024-12-19 22:01:39 +0000"
     },
     "done": true
   },

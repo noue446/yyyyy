@@ -614,3 +614,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 17:11:26.607] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [19Dec2024 17:12:09.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Zombie Villager
 [19Dec2024 17:12:09.870] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[19Dec2024 17:12:33.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Noxxxx lost connection: Disconnected
+[19Dec2024 17:12:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
+[19Dec2024 17:12:34.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[19Dec2024 17:18:19.021] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=363, y=104, z=4939}
+[19Dec2024 17:21:54.560] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.12.174.205:43407] logged in with entity id 11387 at (683.3000000119209, 69.0, 5405.164751946884)
+[19Dec2024 17:21:54.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
+[19Dec2024 17:21:59.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11449, l='ServerLevel[world]', x=616.24, y=77.89, z=5446.26] died, message: 'Farmer was slain by Myrmex Sentinel'
+[19Dec2024 17:22:20.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11535, l='ServerLevel[world]', x=632.56, y=73.00, z=5492.73] died, message: 'Villager was slain by Myrmex Sentinel'
+[19Dec2024 17:22:31.071] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/11536, l='ServerLevel[world]', x=641.40, y=68.95, z=5491.12] died, message: 'Beekeeper was slain by Myrmex Sentinel'

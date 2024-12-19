@@ -1085,3 +1085,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 04:24:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Wax Off]
 [19Dec2024 04:29:24.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx died because of Baby Skeleton
 [19Dec2024 04:29:24.555] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[19Dec2024 04:44:42.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[19Dec2024 04:44:42.548] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[19Dec2024 04:45:10.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by The Moonflower
+[19Dec2024 04:45:10.586] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved

@@ -598,3 +598,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 16:15:18.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was impaled by Marauder
 [19Dec2024 16:15:18.924] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [19Dec2024 16:15:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Voluntary Exile]
+[19Dec2024 16:22:53.740] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.12.174.205:33393] logged in with entity id 6867 at (749.9069362869994, 127.92159999847412, 4488.968755331631)
+[19Dec2024 16:22:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[19Dec2024 16:23:33.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 was kicked for floating too long!
+[19Dec2024 16:23:33.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 lost connection: Disconnected
+[19Dec2024 16:23:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 left the game
+[19Dec2024 16:23:33.550] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19Dec2024 16:24:32.070] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.12.174.205:44531] logged in with entity id 7200 at (749.9069362869994, 127.92159999847412, 4488.968755331631)
+[19Dec2024 16:24:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[19Dec2024 16:25:11.530] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GiovanyBy14 lost connection: Disconnected
+[19Dec2024 16:25:11.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 left the game
+[19Dec2024 16:32:29.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.12.174.205:56179] logged in with entity id 9504 at (749.9069362869994, 127.92159999847412, 4488.968755331631)
+[19Dec2024 16:32:29.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game

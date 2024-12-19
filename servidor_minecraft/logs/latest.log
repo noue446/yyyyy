@@ -1064,3 +1064,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 02:44:03.781] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/102095, l='ServerLevel[world]', x=623.14, y=79.00, z=5448.24] died, message: 'Beekeeper drowned'
 [19Dec2024 02:44:45.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Disconnected
 [19Dec2024 02:44:46.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game
+[19Dec2024 03:00:36.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [True Farmer]

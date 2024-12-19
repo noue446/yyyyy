@@ -674,12 +674,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2024-12-19 02:49:23 +0000"
-    },
-    "done": false
-  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2024-12-19 01:11:09 +0000"

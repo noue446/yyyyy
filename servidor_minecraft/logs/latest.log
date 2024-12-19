@@ -604,3 +604,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:33:36.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx left the game
 [19Dec2024 00:46:12.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Noxxxx[/127.231.137.34:59107] logged in with entity id 2085 at (729.5909865741538, 93.0, 4406.452780776496)
 [19Dec2024 00:46:12.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx joined the game
+[19Dec2024 00:55:24.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GiovanyBy14[/127.231.137.34:33065] logged in with entity id 5264 at (188.6007775321879, 88.0, 4113.5960318076495)
+[19Dec2024 00:55:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
+[19Dec2024 00:56:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[19Dec2024 00:58:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]

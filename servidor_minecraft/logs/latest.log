@@ -608,3 +608,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 00:55:24.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 joined the game
 [19Dec2024 00:56:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
 [19Dec2024 00:58:43.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported GiovanyBy14 to Noxxxx]
+[19Dec2024 01:05:38.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Alex's Caves]
+[19Dec2024 01:05:54.508] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[19Dec2024 01:05:54.511] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-1158, y=177, z=-952}
+[19Dec2024 01:05:55.005] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[19Dec2024 01:05:55.017] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[19Dec2024 01:05:55.018] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[19Dec2024 01:05:55.018] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[19Dec2024 01:05:55.019] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[19Dec2024 01:05:55.019] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[19Dec2024 01:05:55.023] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[19Dec2024 01:05:55.023] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[19Dec2024 01:05:55.024] [Worker-Main-21/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}
+[19Dec2024 01:06:01.676] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[19Dec2024 01:06:01.677] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[19Dec2024 01:06:01.677] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[19Dec2024 01:06:01.678] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[19Dec2024 01:06:01.678] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[19Dec2024 01:06:01.679] [Worker-Main-23/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[19Dec2024 01:06:45.064] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19Dec2024 01:07:16.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[19Dec2024 01:07:33.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported Noxxxx to GiovanyBy14]
+[19Dec2024 01:08:10.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GiovanyBy14 has made the advancement [Surfer Rosa]

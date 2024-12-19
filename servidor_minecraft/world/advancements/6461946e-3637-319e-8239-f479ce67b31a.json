@@ -736,5 +736,17 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2024-12-19 18:02:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2024-12-19 18:07:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -485,78 +485,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2024-12-19 02:44:23 +0000",
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
+      "killed_lightning_dragon": "2024-12-19 02:31:21 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "iceandfire:iceandfire/kill_siren": {
     "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
+      "killed_fire_dragon": "2024-12-19 02:35:24 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-12-19 02:44:24 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
@@ -570,17 +509,77 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_siren": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "killed_fire_dragon": "2024-12-19 02:35:24 +0000"
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
     },
-    "done": true
+    "done": false
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "killed_lightning_dragon": "2024-12-19 02:31:21 +0000"
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-19 17:23:04 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

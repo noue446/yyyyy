@@ -1073,3 +1073,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 03:31:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Spider
 [19Dec2024 03:31:57.169] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [19Dec2024 04:02:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Lorem Ipsum]
+[19Dec2024 04:03:14.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx fell from a high place
+[19Dec2024 04:03:15.172] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[19Dec2024 04:10:46.932] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/124820, l='ServerLevel[world]', x=560.47, y=112.00, z=4579.71] died, message: 'Villager was slain by Zombie'
+[19Dec2024 04:10:52.821] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/124786, l='ServerLevel[world]', x=559.66, y=111.31, z=4578.62] died, message: 'Nitwit was slain by Zombie'
+[19Dec2024 04:10:53.874] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/124784, l='ServerLevel[world]', x=561.54, y=112.00, z=4581.07] died, message: 'Villager was slain by Zombie'

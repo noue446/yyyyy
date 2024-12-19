@@ -674,9 +674,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-19 01:05:38 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_mushroom_village": {
     "criteria": {
       "location0": "2024-12-19 01:11:09 +0000"
+    },
+    "done": true
+  },
+  "placeablesmod:true_farmer": {
+    "criteria": {
+      "true_farmer": "2024-12-19 03:00:36 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-19 03:30:35 +0000"
     },
     "done": true
   },
@@ -689,24 +707,6 @@
   "minecraft:husbandry/wax_off": {
     "criteria": {
       "wax_off": "2024-12-19 04:24:52 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/root": {
-    "criteria": {
-      "underground_cabin": "2024-12-19 01:05:38 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-19 03:30:35 +0000"
-    },
-    "done": true
-  },
-  "placeablesmod:true_farmer": {
-    "criteria": {
-      "true_farmer": "2024-12-19 03:00:36 +0000"
     },
     "done": true
   },

@@ -1072,3 +1072,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 03:31:13.120] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
 [19Dec2024 03:31:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx was slain by Spider
 [19Dec2024 03:31:57.169] [Server thread/INFO] [tombstone/]: The player Noxxxx has successfully been saved
+[19Dec2024 04:02:06.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Noxxxx has made the advancement [Lorem Ipsum]

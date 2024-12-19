@@ -837,3 +837,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [19Dec2024 01:59:35.016] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
 [19Dec2024 02:00:11.465] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [19Dec2024 02:00:32.138] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5683ms or 113 ticks behind
+[19Dec2024 02:00:56.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx froze to death
+[19Dec2024 02:00:56.133] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[19Dec2024 02:00:56.626] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9521ms or 190 ticks behind
+[19Dec2024 02:01:27.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 02:01:46.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4243ms or 84 ticks behind
+[19Dec2024 02:02:07.661] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6405ms or 128 ticks behind
+[19Dec2024 02:02:23.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx has reached the goal [Easy Opening]
+[19Dec2024 02:02:29.395] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6740ms or 134 ticks behind
+[19Dec2024 02:02:31.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx was doomed to fall by Zombie Villager
+[19Dec2024 02:02:31.791] [Server thread/INFO] [tombstone/]: The player nicolasxpazx has successfully been saved
+[19Dec2024 02:02:50.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx was kicked for floating too long!
+[19Dec2024 02:02:50.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nicolasxpazx lost connection: Flying is not enabled on this server
+[19Dec2024 02:02:50.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx left the game
+[19Dec2024 02:04:34.909] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nicolasxpazx[/127.231.137.34:56355] logged in with entity id 69501 at (921.9426669809045, 140.28549238931876, 4904.038332045219)
+[19Dec2024 02:04:34.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nicolasxpazx joined the game
+[19Dec2024 02:04:57.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[19Dec2024 02:05:18.993] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6487ms or 129 ticks behind
+[19Dec2024 02:05:29.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=765, y=121, z=4467} BlockPos{x=765, y=120, z=4464}
+[19Dec2024 02:05:29.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=765, y=121, z=4467} BlockPos{x=765, y=120, z=4464}
+[19Dec2024 02:05:30.070] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=765, y=121, z=4468} BlockPos{x=764, y=120, z=4467}
+[19Dec2024 02:05:30.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=765, y=121, z=4468} BlockPos{x=764, y=120, z=4467}
+[19Dec2024 02:05:30.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=763, y=122, z=4467} BlockPos{x=762, y=120, z=4467}
+[19Dec2024 02:05:39.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5554ms or 111 ticks behind
+[19Dec2024 02:05:57.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2570ms or 51 ticks behind
+[19Dec2024 02:06:17.507] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[19Dec2024 02:06:41.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[19Dec2024 02:08:19.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
+[19Dec2024 02:08:26.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Noxxxx> z
+[19Dec2024 02:08:30.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <nicolasxpazx> skdjsofsfndgwgojwgowtjthj3
+[19Dec2024 02:17:11.361] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/78450, l='ServerLevel[world]', x=1739.50, y=45.00, z=4098.50]
+[19Dec2024 02:18:47.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nicolasxpazx) moved wrongly! 0.40726120150452516
+[19Dec2024 02:18:47.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of nicolasxpazx) moved wrongly! 0.5004981745335044
+[19Dec2024 02:19:37.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Noxxxx: Teleported nicolasxpazx to GiovanyBy14]
